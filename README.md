@@ -1,8 +1,8 @@
 # Coach
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/coach`. To experiment with that code, run `bin/console` for an interactive prompt.
+> A (work in progress) coaching assistant for mentors who teach developers.
 
-TODO: Delete this and the text above, and describe your gem
+Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/coach`. To experiment with that code, run `bin/console` for an interactive prompt.
 
 ## Installation
 
