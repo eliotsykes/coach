@@ -6,29 +6,26 @@ Welcome to your new gem! In this directory, you'll find the files you need to be
 
 ## Installation
 
-# On OSX, use Homebrew to install cmake and pkg-config (required by pronto gem):
+On OSX, use Homebrew to install cmake and pkg-config (required by pronto gem):
 
 ```bash
 brew install cmake pkg-config
 ```
 
-Add this line to your application's Gemfile:
-
-```ruby
-gem 'coach'
-```
+Enable any pronto runners you want by uncommenting the relevant `pronto-*` gems
+in `Gemfile`.
 
 And then execute:
 
-    $ bundle
-
-Or install it yourself as:
-
-    $ gem install coach
+```bash
+$ bundle
+```
 
 ## Usage
 
-TODO: Write usage instructions here
+```bash
+bundle exec pronto run path/to/project-to-review
+```
 
 ## Development
 
