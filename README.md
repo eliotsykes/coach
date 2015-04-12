@@ -6,6 +6,12 @@ Welcome to your new gem! In this directory, you'll find the files you need to be
 
 ## Installation
 
+# On OSX, use Homebrew to install cmake and pkg-config (required by pronto gem):
+
+```bash
+brew install cmake pkg-config
+```
+
 Add this line to your application's Gemfile:
 
 ```ruby
